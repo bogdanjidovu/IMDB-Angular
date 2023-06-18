@@ -1,4 +1,4 @@
-# TODO App - React
+# IMDB - Angular
 
 A IMDb replica. IMDb is an online database containing information and statistics about movies, TV shows and video games as well as actors, directors and other film industry professionals.
 
